@@ -12,7 +12,7 @@ dependencies {
         compile 'com.alibaba:fastjson:1.2.9'
 
         //支付（以支付宝官网公布的百川版本为准）
-        compile 'com.alibaba.alipay:alipaySingle:20160825@jar'
+     //   compile 'com.alibaba.alipay:alipaySingle:20160825@jar'
 
         //登陆
         compile 'com.ali.auth.sdk:alibabauth_core:1.4.3@jar'
